@@ -1,5 +1,38 @@
-To run
-======
-just run in a terminal:
+                                       _   _____
+    /\                                (_) |  __ \
+   /  \   _ __   __ _ _   _ ___   __ _ _  | |  | | ___ _ __ ___   ___  ___
+  / /\ \ | '_ \ / _` | | | / __| / _` | | | |  | |/ _ \ '_ ` _ \ / _ \/ __|
+ / ____ \| | | | (_| | |_| \__ \| (_| | | | |__| |  __/ | | | | | (_) \__ \
+/_/    \_\_| |_|\__, |\__,_|___(_)__,_|_| |_____/ \___|_| |_| |_|\___/|___/
+                 __/ |
+                |___/
 
-$ python demo_sceneanalysis.py
+A set of demos leveraging angus.ai API.
+For more basic scripts, please look at the github repo: angus-gettingstarted
+
+Directories:
+----------
+
+.
+├── demo_sceneanalysis
+└── README
+
+
+
+Go further
+----------
+
+- The complete API documentation is available `here <http://angus-doc.readthedocs.io/en/latest/services/index.html>`_.
+
+
+Discussion and support
+----------------------
+
+You can contact Angus.ai team at `contact@angus.ai <mailto:contact@angus.ai>`_, and report bugs on the `GitHub issue tracker <https://github.com/angus-ai/angus-demos/issues>`_.
+
+This web site and all documentation is licensed under `Creative
+Commons 3.0 <http://creativecommons.org/licenses/by/3.0/>`_.
+
+All code here is available under the `Apache License, Version 2.0. <https://www.apache.org/licenses/LICENSE-2.0.html>`_. Please read LICENSE and NOTICE files for more information.
+
+Copyright 2015-2017, Angus.ai
